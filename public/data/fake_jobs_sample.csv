@@ -1,0 +1,37 @@
+job_title,company,location,salary_min,salary_max,job_type,experience_level,remote,industry,posted_date
+Software Engineer,TechCorp,New York,90000,130000,Full-time,Mid,Yes,Technology,2024-01-15
+Data Scientist,DataInc,San Francisco,110000,160000,Full-time,Senior,Yes,Technology,2024-01-16
+Product Manager,StartupXYZ,Austin,95000,140000,Full-time,Mid,Hybrid,Technology,2024-01-17
+UX Designer,DesignCo,Seattle,75000,110000,Full-time,Junior,No,Design,2024-01-18
+DevOps Engineer,CloudSys,Remote,100000,145000,Full-time,Senior,Yes,Technology,2024-01-19
+Marketing Manager,BrandBig,Chicago,70000,100000,Full-time,Mid,Hybrid,Marketing,2024-01-20
+Data Analyst,AnalyticsPlus,Boston,65000,95000,Full-time,Junior,Yes,Finance,2024-01-21
+Backend Engineer,FinTechPro,New York,105000,155000,Full-time,Senior,No,Finance,2024-01-22
+Frontend Developer,WebWorks,Los Angeles,80000,120000,Full-time,Mid,Yes,Technology,2024-01-23
+ML Engineer,AILabs,San Francisco,120000,180000,Full-time,Senior,Yes,Technology,2024-01-24
+HR Manager,PeopleFirst,Chicago,60000,85000,Full-time,Mid,No,HR,2024-01-25
+Sales Executive,SalesForce,Dallas,55000,90000,Full-time,Junior,No,Sales,2024-01-26
+Cybersecurity Analyst,SecureNet,Washington,95000,135000,Full-time,Mid,Hybrid,Technology,2024-01-27
+Business Analyst,ConsultCo,New York,70000,105000,Full-time,Mid,Hybrid,Consulting,2024-01-28
+Cloud Architect,AWSPartner,Remote,130000,190000,Full-time,Senior,Yes,Technology,2024-01-29
+Content Writer,MediaHub,Los Angeles,45000,65000,Part-time,Junior,Yes,Media,2024-01-30
+Financial Analyst,InvestCo,New York,80000,120000,Full-time,Mid,No,Finance,2024-02-01
+iOS Developer,MobileFirst,San Francisco,100000,150000,Full-time,Senior,Yes,Technology,2024-02-02
+Project Manager,BuildCo,Seattle,85000,125000,Full-time,Senior,Hybrid,Construction,2024-02-03
+Data Engineer,PipelinePro,Austin,95000,140000,Full-time,Mid,Yes,Technology,2024-02-04
+QA Engineer,TestMasters,Boston,70000,100000,Full-time,Mid,Yes,Technology,2024-02-05
+Operations Manager,LogiCo,Chicago,75000,110000,Full-time,Senior,No,Logistics,2024-02-06
+Python Developer,ScriptLab,Remote,85000,125000,Full-time,Mid,Yes,Technology,2024-02-07
+Graphic Designer,CreativeCo,Portland,50000,75000,Full-time,Junior,Yes,Design,2024-02-08
+System Administrator,ITSupport,Dallas,65000,95000,Full-time,Mid,No,Technology,2024-02-09
+Research Scientist,BioLabs,Boston,90000,135000,Full-time,Senior,No,Healthcare,2024-02-10
+Android Developer,MobileXYZ,San Francisco,95000,145000,Full-time,Mid,Yes,Technology,2024-02-11
+Account Manager,ClientFirst,New York,60000,90000,Full-time,Mid,Hybrid,Sales,2024-02-12
+Network Engineer,NetPro,Chicago,80000,115000,Full-time,Senior,No,Technology,2024-02-13
+Scrum Master,AgileCo,Remote,90000,130000,Full-time,Senior,Yes,Technology,2024-02-14
+Legal Counsel,LawFirm,New York,120000,180000,Full-time,Senior,No,Legal,2024-02-15
+Supply Chain Manager,LogiGlobal,Chicago,85000,125000,Full-time,Senior,No,Logistics,2024-02-16
+UI Developer,WebDesign,Austin,75000,110000,Full-time,Mid,Yes,Technology,2024-02-17
+Database Administrator,DataSafe,Seattle,85000,125000,Full-time,Senior,No,Technology,2024-02-18
+Customer Success Manager,SaaSCo,San Francisco,70000,105000,Full-time,Mid,Yes,Technology,2024-02-19
+Blockchain Developer,CryptoLab,Remote,110000,170000,Full-time,Senior,Yes,Technology,2024-02-20

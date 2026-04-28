@@ -1,0 +1,5 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Inter', system-ui, sans-serif; background: #f5f6f8; color: #111; -webkit-font-smoothing: antialiased; }
+a { color: inherit; }
+button { font-family: inherit; cursor: pointer; }
+code, pre { font-family: 'JetBrains Mono', monospace; }
